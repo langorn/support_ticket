@@ -19,6 +19,10 @@ Data Model
 https://drive.google.com/file/d/1Rbp8IaWigVpxWhxlfWmeKfUeXSD37Nlm/view?usp=sharing
 ```
 
+UI Mockup
+```
+https://drive.google.com/file/d/1ujsfcCkevbts9HLDazW4bmwV3C7t2lac/view?usp=sharing
+```
 
 Task 4
 API Document 
